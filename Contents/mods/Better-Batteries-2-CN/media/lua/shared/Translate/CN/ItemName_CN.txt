@@ -1,0 +1,4 @@
+ItemName_CN = {
+	DisplayName_Hand_Crank = "手摇发电机",
+	DisplayName_Makeshift_Hand_Crank = "临时手摇发电机",
+}

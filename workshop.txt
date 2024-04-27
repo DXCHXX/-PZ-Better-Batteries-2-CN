@@ -1,0 +1,9 @@
+version=1
+title=Better-Batteries-2-CN
+description=Project Zomboid mod Better Batteries 汉化
+description=
+description=本项目语言文本翻译使用大语言模型翻译。
+description=
+description=https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410
+tags=
+visibility=public

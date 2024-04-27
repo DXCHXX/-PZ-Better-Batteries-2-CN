@@ -1,0 +1,6 @@
+ContextMenu_CN = {
+	ContextMenu_Crank_LowStam = "体力过低无法操作",
+	ContextMenu_Crank_NeedBattery = "插入电池进行充电",
+	ContextMenu_Crank_FullBattery = "无法给已充满的电池充电",
+	ContextMenu_Crank_ChargeWith = "给电池充电",
+}

@@ -1,0 +1,15 @@
+Sandbox_CN = {
+	Sandbox_BetterBatteries = "改良电池",
+	Sandbox_BetterBatteries_CrankTime = "基础手摇时间",
+	Sandbox_BetterBatteries_CrankTime_tooltip = "在无惩罚/增益的情况下,从空电到充满电所需的游戏中分钟数.",
+	Sandbox_BetterBatteries_StrengthBuff = "手摇力度增益",
+	Sandbox_BetterBatteries_StrengthBuff_tooltip = "决定是否将较高的力量等级应用时间增益.",
+	Sandbox_BetterBatteries_EndurancePenalty = "手摇耐力惩罚",
+	Sandbox_BetterBatteries_EndurancePenalty_tooltip = "决定是否将在较低耐力时应用时间惩罚.(无论此项设置如何,在极低耐力时都不允许使用手摇充电器.)",
+	Sandbox_BetterBatteries_UnhappinessPenalty = "手摇不满情绪惩罚",
+	Sandbox_BetterBatteries_UnhappinessPenalty_tooltip = "决定是否将在不满情绪状态下应用时间惩罚.",
+	Sandbox_BetterBatteries_MaxCharge = "最大电池电量",
+	Sandbox_BetterBatteries_MaxCharge_tooltip = "设置手动充电可将电池恢复到的最大电量.",
+	Sandbox_BetterBatteries_LifetimeMult = "电池寿命倍率",
+	Sandbox_BetterBatteries_LifetimeMult_tooltip = "应用于所有使用电池的电气设备的寿命倍率.(负值会导致无限电量,0会导致电量瞬间耗尽.)"
+}

@@ -1,0 +1,5 @@
+Recipes_CN = {
+	Recipe_Make_Makeshift_Hand_Crank = "制作临时手摇发电机",
+	Recipe_Insert_Battery_into_Makeshift_Hand_Crank = "将电池插入临时手摇发电机",
+	Recipe_Insert_Battery_into_Hand_Crank = "将电池插入手摇发电机",
+}
